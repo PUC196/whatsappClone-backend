@@ -1,0 +1,9 @@
+package com.app.config;
+
+public class JwtConstant {
+	
+	public static final String JWT_HEADER="Authorization";
+	public static final String SECRET_KEY="mySecretKey123912738aopsgjnspkmndfsopkvajoirjg94gf2opfng2moknm";
+	
+}
+ 
